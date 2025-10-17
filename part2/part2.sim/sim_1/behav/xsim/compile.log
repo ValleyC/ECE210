@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/ECE210/Lab2/part2/Lab2_part2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'lab2_part2'
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/ECE210/Lab2/part2/lab2_part2_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'lab2_tb'
